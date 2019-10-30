@@ -1,8 +1,5 @@
 # ML--RMSE-with-graphs
 applying RMSE ON  students "NAME","Age","GPA","MAJOR" 
-
-
-# BOT--Hydrafacial
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">

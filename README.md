@@ -7,7 +7,7 @@ applying RMSE ON  students "NAME","Age","GPA","MAJOR"
 <br />
 <p align="center">
   <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/ML--RMSE-with-graphs/blob/master/digital-brain-ai-machine-learning-artificial-intelligence-512.png" alt="Logo" width="100" height="150">
+    <img src="https://github.com/Zeeshanahmad4/ML--RMSE-with-graphs/blob/master/digital-brain-ai-machine-learning-artificial-intelligence-512.png" alt="Logo" width="130" height="120">
   </a>
   <h3 align="center">Machine learning with Data Visualization</h3>
 </p>

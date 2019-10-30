@@ -31,49 +31,46 @@ applying RMSE ON  students "NAME","Age","GPA","MAJOR"
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Product Name Screen Shot](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/main1.jpg)
-We needs only 2 fields so scraping only Names,Phon
+![Product Name Screen Shot](https://github.com/Zeeshanahmad4/ML--RMSE-with-graphs/blob/master/Age.png)
+applying Root mean square value on a data set in Students details
 
 ### Built With
 * [Python](https://www.python.org/)
-* [Beautifullsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [rmse](https://pypi.org/)
 * [csv](https://en.wikipedia.org/wiki/Comma-separated_values)
+* [plotly](https://pypi.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ### Prerequisites
-* beautifulsoup
-```sh
-pip install bs4
-```
+* python
+* csv
+* plotly
+
 
 
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/Zeeshanahmad4/BOT--Hydrafacial.git
+git clone https://github.com/Zeeshanahmad4/ML--RMSE-with-graphs.git
 ```
 2. Install python 
 ```sh
 install python
 ```
-3. Install python packages
-```sh
-pip install bs4
-```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-You can use this project to scrape spa and facial providers all around world. 
+
 
 ## Includes Files
-1. Scraper.py
-2. output.csv 
+1. RMSE.py
+
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Zeeshanahmad4/ML--RMSE-with-graphs/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing

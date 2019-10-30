@@ -1,5 +1,6 @@
 # ML--RMSE-with-graphs
-applying RMSE ON  students "NAME","Age","GPA","MAJOR" 
+Applying RMSE ON students "NAME","Age","GPA","MAJOR"
+Data visualization with plotly
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
